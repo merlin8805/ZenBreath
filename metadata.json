@@ -1,0 +1,8 @@
+{
+  "name": "ZenBreath - 呼吸训练专家",
+  "description": "一个优雅的呼吸训练工具，支持盒式呼吸、等量呼吸、长呼吸及自定义呼吸模式，帮助用户放松身心，缓解压力。支持黑暗昼夜模式与自研 Web Audio API 白噪音伴呼吸功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
